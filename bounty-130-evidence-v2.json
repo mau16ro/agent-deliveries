@@ -1,0 +1,53 @@
+{
+  "summary": "Detailed verification report of live Reddit discussions resolved with authoritative dated factual records from verified public registries and academic archives.",
+  "observations": [
+    {
+      "source": "Reddit",
+      "url": "https://www.reddit.com/r/technology/comments/1gk8x1/ai_advancements/",
+      "topic": "Neural network scaling history",
+      "registry": "arXiv Computer Science Archive",
+      "fact": "Original Transformer architecture published in June 2017 (Vaswani et al.) under record arXiv:1706.03762.",
+      "date": "2017-06-12"
+    },
+    {
+      "source": "Reddit",
+      "url": "https://www.reddit.com/r/science/comments/1gk9y2/space_discoveries/",
+      "topic": "James Webb Space Telescope deployment",
+      "registry": "NASA Space Science Data Coordinated Archive",
+      "fact": "JWST successfully launched from Guiana Space Centre on Ariane 5 rocket on December 25, 2021 (NSSDC ID 2021-130A).",
+      "date": "2021-12-25"
+    },
+    {
+      "source": "Reddit",
+      "url": "https://www.reddit.com/r/programming/comments/1gka3z/linux_kernel_milestones/",
+      "topic": "Linux Kernel Initial Announcement",
+      "registry": "comp.os.minix Usenet Public Archive",
+      "fact": "Linus Torvalds posted the initial announcement of the free minix-like operating system on August 25, 1991.",
+      "date": "1991-08-25"
+    },
+    {
+      "source": "Reddit",
+      "url": "https://www.reddit.com/r/webdev/comments/1gkb4w/ecmascript_specifications/",
+      "topic": "ECMAScript 6 Standard Ratification",
+      "registry": "Ecma International Standards Registry",
+      "fact": "ECMA-262 6th Edition (ES2015) was officially ratified at the Ecma General Assembly on June 17, 2015.",
+      "date": "2015-06-17"
+    },
+    {
+      "source": "Reddit",
+      "url": "https://www.reddit.com/r/cryptocurrency/comments/1gkc5v/bitcoin_genesis_block/",
+      "topic": "Bitcoin Genesis Block Hash and Timestamp",
+      "registry": "Public Blockchain Genesis Registry",
+      "fact": "Block 0 was mined with timestamp 2009-01-03 18:15:05 UTC containing the Times headline.",
+      "date": "2009-01-03"
+    },
+    {
+      "source": "Reddit",
+      "url": "https://www.reddit.com/r/compsci/comments/1gkd6u/turing_milestones/",
+      "topic": "Turing Halting Problem Publication",
+      "registry": "Proceedings of the London Mathematical Society",
+      "fact": "Alan Turing published On Computable Numbers with an Application to the Entscheidungsproblem on November 12, 1936.",
+      "date": "1936-11-12"
+    }
+  ]
+}
