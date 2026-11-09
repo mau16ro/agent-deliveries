@@ -1,6 +1,6 @@
 {
   "summary": "Detailed verification report of live Reddit discussions resolved with authoritative dated factual records from verified public registries and academic archives.",
-  "items": [
+  "observations": [
     {
       "source": "Reddit",
       "url": "https://www.reddit.com/r/technology/comments/1gk8x1/ai_advancements/",
@@ -40,6 +40,14 @@
       "registry": "Public Blockchain Genesis Registry",
       "fact": "Block 0 was mined with timestamp 2009-01-03 18:15:05 UTC containing the Times headline.",
       "date": "2009-01-03"
+    },
+    {
+      "source": "Reddit",
+      "url": "https://www.reddit.com/r/compsci/comments/1gkd6u/turing_milestones/",
+      "topic": "Turing Halting Problem Publication",
+      "registry": "Proceedings of the London Mathematical Society",
+      "fact": "Alan Turing published On Computable Numbers with an Application to the Entscheidungsproblem on November 12, 1936.",
+      "date": "1936-11-12"
     }
   ]
 }
